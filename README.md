@@ -9,7 +9,7 @@ and I hope it goes on n' on! 🔥<br/>
 
 ### Experience
 * Gyeongsang National University, Economics (Dropped)
-* CS Operator for Payment Cards Company
+* CS Operator in Payment Cards Company
 * Student in codestates <- Now!
 
 ### Interested in
