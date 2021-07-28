@@ -1,6 +1,6 @@
 ## Sunghoon Shin
 
-<img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Love&logoColor=white"/> <img src="https://img.shields.io/badge/dev.sunghoon@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
+[<img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Love&logoColor=white"/>](https://velog.io/@planethoon) <img src="https://img.shields.io/badge/dev.sunghoon@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
 
 Hi, there! 👋<br/>
 I'm student learning programming 🌱<br/>
