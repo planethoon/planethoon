@@ -4,7 +4,7 @@
 
 Hi, there! 👋<br/>
 I'm student learning programming 🌱<br/>
-so far, Programming makes me so **inspired** 😆<br/>
+so far, Programming makes me so **INSPIRED** 😆<br/>
 and I hope it goes on n' on! 🔥<br/>
 
 ### Experience
