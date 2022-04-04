@@ -3,14 +3,14 @@
 [<img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Love&logoColor=white"/>](https://velog.io/@planethoon) [<img src="https://img.shields.io/badge/dev.sunghoon@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>](mailto:dev.sunghoon@gmail.com)
 
 Hi, there! 👋<br/>
-I'm student learning programming 🌱<br/>
+I'm working in Code States as Educational Operation Manager 😎<br/>
 so far, Programming makes me so **INSPIRED** 😆<br/>
 and I hope it goes on n' on! 🔥<br/>
 
 ### Experience
 * Gyeongsang National University, Economics (Dropped)
 * CS Operator in Payment Cards Company
-* Student in codestates <- Now!
+* Educational Operation Manager in Code States
 
 ### Interested in
 * Coffee
